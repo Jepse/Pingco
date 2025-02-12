@@ -1,0 +1,12 @@
+C:\Projects\Converters\Pingco\Rust\pingco\target\release\deps\libico-3a64096194dc1cd2.rmeta: C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\lib.rs C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\macros.rs C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\bmpdepth.rs C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\icondir.rs C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\image.rs C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\restype.rs
+
+C:\Projects\Converters\Pingco\Rust\pingco\target\release\deps\libico-3a64096194dc1cd2.rlib: C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\lib.rs C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\macros.rs C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\bmpdepth.rs C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\icondir.rs C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\image.rs C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\restype.rs
+
+C:\Projects\Converters\Pingco\Rust\pingco\target\release\deps\ico-3a64096194dc1cd2.d: C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\lib.rs C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\macros.rs C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\bmpdepth.rs C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\icondir.rs C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\image.rs C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\restype.rs
+
+C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\lib.rs:
+C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\macros.rs:
+C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\bmpdepth.rs:
+C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\icondir.rs:
+C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\image.rs:
+C:\Users\Jepse\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ico-0.4.0\src\restype.rs:
