@@ -20,6 +20,8 @@ To compile Pingco manually:
 you will need Rust & Cargo installed
 
 ```sh
+git clone https://github.com/Jepse/Pingco.git
+
 cargo build --release
 ```
 The compiled executable will be in `target/release/pingco.exe`.
