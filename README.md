@@ -6,7 +6,7 @@
 ## 🚀 How It Works
 1. **Download**
    - Download the release
-   - Store 'Pingco.exe' wherever you want to use it from 
+   - Store `pingco.exe` wherever you want to use it from 
 2. **Drag and drop an image onto `pingco.exe`**:
    - If you drop a `.png` → It converts to `.ico`
    - If you drop an `.ico` → It converts to `.png`
